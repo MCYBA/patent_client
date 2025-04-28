@@ -27,7 +27,7 @@ exclude = ["./**/cassettes/**/*",]
 python = ">=3.8,<3.13"
 
 # Required Dependencies
-lxml = "^5.2.2"
+lxml = "^4.8.0"
 python-dateutil = "^2.9.0.post0"
 openpyxl = "^3.1.2"
 #yankee = {path="../yankee", develop=true}
