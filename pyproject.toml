@@ -31,7 +31,7 @@ lxml = "^5.2.2"
 python-dateutil = "^2.9.0.post0"
 openpyxl = "^3.1.2"
 #yankee = {path="../yankee", develop=true}
-yankee = "^0.1.46"
+yankee = "^0.1.41"
 
 pydantic = "^2.7.1"
 pydantic-settings = "^2.2.1"
